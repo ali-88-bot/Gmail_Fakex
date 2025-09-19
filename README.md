@@ -23,7 +23,7 @@
 
 ```bash
 pip install requests plyer colorama beautifulsoup4
-
+```
 
 ---
 
@@ -52,4 +52,5 @@ Created with by [Ali Nedaiy] Feel free to fork, contribute, or share feedback!
 
 
 ---
+
 #GmailFakex #FakeEmail #TempEmail #PythonTool #EmailAutomation #CyberTools #MailTM #OpenSource #GitHubTrending #PrivacyTools #SecurityTesting #PythonScript #HackTools #DevTools #InboxMonitor
