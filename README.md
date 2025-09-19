@@ -36,8 +36,6 @@ Gmail_Fakex.exe — Compiled executable for Windows users
 
 README.md — Documentation
 
-icon.png — Custom icon for the project
-
 You can run the script directly or use the executable—no Python knowledge required for basic use.
 
 ---
@@ -54,3 +52,4 @@ Created with by [Ali Nedaiy] Feel free to fork, contribute, or share feedback!
 ---
 
 #GmailFakex #FakeEmail #TempEmail #PythonTool #EmailAutomation #CyberTools #MailTM #OpenSource #GitHubTrending #PrivacyTools #SecurityTesting #PythonScript #HackTools #DevTools #InboxMonitor
+
